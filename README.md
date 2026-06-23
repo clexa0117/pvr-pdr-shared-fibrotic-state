@@ -6,7 +6,7 @@ This repository is a public release package for the manuscript:
 
 Repository URL: https://github.com/clexa0117/pvr-pdr-shared-fibrotic-state
 
-Zenodo archived release DOI for `v1.0.0`: to be assigned by Zenodo after initial release archiving
+Zenodo archived release DOI for `v1.0.0`: https://doi.org/10.5281/zenodo.20816557
 
 The package contains a compact English-only public release set for manuscript traceability: analysis scripts, selected derived evidence tables, reproducibility environment records, source-data accession records, and release metadata. Large raw datasets, intermediate count matrices, per-cell annotation tables, QC/UMAP image panels, generated figure images, full manuscript drafts, author-contact details, and submission-only files are not included.
 
@@ -48,7 +48,7 @@ Full manuscript drafts, submission-only Word/PDF artifacts, generated figure ima
 
 ## Citation
 
-Please cite the manuscript when available. The Zenodo DOI for this `v1.0.0` initial public release will be assigned on the Zenodo record page after GitHub release archiving.
+Please cite the manuscript when available. The archived public release DOI for this `v1.0.0` initial public release is https://doi.org/10.5281/zenodo.20816557.
 
 ## License
 

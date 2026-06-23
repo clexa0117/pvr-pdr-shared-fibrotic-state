@@ -1,8 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the archived release DOI assigned by Zenodo and the associated manuscript when available."
+message: "If you use this repository, please cite the archived release DOI and the associated manuscript when available."
 title: "Single-cell analysis reveals a conserved ECM/TGF-beta fibrotic signaling state across human proliferative vitreoretinal diseases"
 version: "v1.0.0"
 date-released: "2026-06-23"
+doi: "10.5281/zenodo.20816557"
+url: "https://doi.org/10.5281/zenodo.20816557"
 
 authors:
   - family-names: "Lin"
