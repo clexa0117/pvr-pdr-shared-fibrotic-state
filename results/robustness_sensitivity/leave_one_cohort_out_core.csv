@@ -1,0 +1,4 @@
+excluded_accession,remaining_patients,remaining_PVR_patients,remaining_PDR_patients,formal_core_retained,formal_core_total,formal_core_retention_fraction,lost_formal_core_genes
+GSE165784,9,5,4,25,25,1.0,
+GSE245561,11,6,5,25,25,1.0,
+GSE294329,10,1,9,25,25,1.0,

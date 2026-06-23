@@ -1,0 +1,11 @@
+gene,PXD025986_PDR_vitreous,PXD057155_RRD_vitreous,PXD070155_recurrence_associated_aqueous,PXD077831_baseline_vitreous_before_PVR,independent_proteomics_cohort_count
+FN1,True,True,True,True,4
+IGFBP7,True,True,True,True,4
+TIMP1,True,True,True,True,4
+CFH,True,False,True,True,3
+SERPINE1,True,False,True,True,3
+AEBP1,False,False,True,False,1
+SULF1,True,False,False,False,1
+THBS2,True,False,False,False,1
+CTHRC1,False,False,False,False,0
+POSTN,False,False,False,False,0

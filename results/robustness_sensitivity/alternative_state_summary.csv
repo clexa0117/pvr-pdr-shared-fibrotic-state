@@ -1,0 +1,4 @@
+alternative_state,selected_cells,patients_covered,PVR_patients_covered,PDR_patients_covered,official_shared_cells_in_alternative,official_shared_recall,alternative_precision_for_official_shared,mean_ECM_score,mean_TGFB_Mechanosensing_score
+patient_top_20pct,2146,15,6,9,1329,0.5691648822269807,0.619291705498602,1.5326478039189049,0.8111589979672543
+patient_top_25pct,2682,15,6,9,1507,0.6453961456102784,0.5618941088739746,1.4634304146506059,0.7729314641427727
+patient_top_30pct,3216,15,6,9,1649,0.7062098501070664,0.5127487562189055,1.4054361447912354,0.739396260685729

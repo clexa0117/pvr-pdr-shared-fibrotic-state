@@ -1,0 +1,23 @@
+# Local data and intermediate matrices
+data/
+public_database_upgrade_exploration/
+legacy_archive/
+virtual_knockout_exploration/
+exploratory_workspaces/
+**/filtered_matrices/
+**/*.npz
+**/*.h5ad
+**/*.rds
+**/*.tar
+**/*.zip
+
+# Local caches and temporary render output
+__pycache__/
+.pytest_cache/
+docx_qa/
+_qa_*/
+_lo_*/
+
+# Office/PDF submission artifacts
+*.docx
+*.pdf

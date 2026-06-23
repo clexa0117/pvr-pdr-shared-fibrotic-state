@@ -1,0 +1,2 @@
+metric,PDR_patients,PVR_patients,PDR_median,PVR_median,median_difference_PDR_minus_PVR,cliffs_delta_PDR_vs_PVR,mann_whitney_p,welch_t_p,permutation_p,mann_whitney_fdr,welch_t_fdr,permutation_fdr
+shared_state_fraction_of_target,9,6,0.39823008849557523,0.13027175221541354,0.2679583362801617,0.7777777777777778,0.011988011988011988,0.008477242987753287,0.0010999450027498626,0.011988011988011988,0.008477242987753287,0.0010999450027498626

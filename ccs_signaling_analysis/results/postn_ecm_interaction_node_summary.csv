@@ -1,0 +1,2 @@
+patients,POSTN_detected_patients,POSTN_fraction_ge_10pct_patients,median_POSTN_expressing_fraction,median_integrin_receptor_score,median_POSTN_integrin_axis_score,most_common_POSTN_integrin_sender
+15,15,15,0.7659574468085106,0.7189653515815735,3.823406967016702,Fibroblast_Mesenchymal

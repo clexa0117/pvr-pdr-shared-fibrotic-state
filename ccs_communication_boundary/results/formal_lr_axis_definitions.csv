@@ -1,0 +1,10 @@
+axis,ligands,receptors,axis_definition
+TGFB_TGFBR,TGFB1;TGFB2;TGFB3,TGFBR1;TGFBR2;TGFBR3,prespecified compact axis from CCS signaling analysis
+POSTN_integrin,POSTN,ITGA5;ITGA6;ITGAV;ITGB1;ITGB3,prespecified compact axis from CCS signaling analysis
+FN1_integrin,FN1,ITGA4;ITGA5;ITGAV;ITGB1;ITGB3,prespecified compact axis from CCS signaling analysis
+THBS_TGFB_activation,THBS1;THBS2,CD47;ITGAV;ITGB1;TGFBR1;TGFBR2,prespecified compact axis from CCS signaling analysis
+PDGF_PDGFR,PDGFA;PDGFB;PDGFC;PDGFD,PDGFRA;PDGFRB,prespecified compact axis from CCS signaling analysis
+VEGF_VEGFR,PGF;VEGFA;VEGFB,FLT1;FLT4;KDR;NRP1;NRP2,prespecified compact axis from CCS signaling analysis
+SPP1_CD44_integrin,SPP1,CD44;ITGAV;ITGB1;ITGB3,prespecified compact axis from CCS signaling analysis
+CXCL_CXCR,CXCL1;CXCL12;CXCL2;CXCL3;CXCL8,CXCR1;CXCR2;CXCR4,prespecified compact axis from CCS signaling analysis
+CCL_CCR,CCL2;CCL3;CCL4;CCL5,CCR1;CCR2;CCR5,prespecified compact axis from CCS signaling analysis

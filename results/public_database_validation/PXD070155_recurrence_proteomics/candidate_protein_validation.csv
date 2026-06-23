@@ -1,0 +1,11 @@
+gene,accession,description,detected_in_aqueous,DRI_detected_patients,DRII_detected_patients,log2FC_DRII_minus_DRI,welch_p,welch_fdr,protein_coverage,mean_log2_DRI,mean_log2_DRII,nominal_p_lt_0_05,fdr_lt_0_05
+FN1,P02751,Fibronectin [OS=Homo sapiens],True,12,12,0.8605970198338895,0.05152539432954896,0.47099994969600634,0.28,22.059636088996808,22.920233108830697,False,False
+TIMP1,P01033,Metalloproteinase inhibitor 1 [OS=Homo sapiens],True,12,12,0.37270505692557876,0.23151929672112948,0.6790019444662131,0.59,23.84076019480199,24.21346525172757,False,False
+CFH,P08603,Complement factor H [OS=Homo sapiens],True,12,12,0.2412354647740571,0.3118827610280203,0.7491508212531164,0.65,25.549161433750914,25.79039689852497,False,False
+IGFBP7,Q16270,Insulin-like growth factor-binding protein 7 [OS=Homo sapiens],True,12,12,0.04847032004055052,0.8161405337042825,0.9432443974146767,0.59,24.537538642445853,24.586008962486403,False,False
+AEBP1,Q8IUX7,Adipocyte enhancer-binding protein 1 [OS=Homo sapiens],True,5,10,-0.2342145321139455,,,0.06,16.865322198989997,16.63110766687605,False,False
+SERPINE1,P05121,Plasminogen activator inhibitor 1 [OS=Homo sapiens],True,2,0,,,,0.04,17.80206352288512,,False,False
+POSTN,Q15063,,False,0,0,,,,,,,,
+CTHRC1,Q96CG8,,False,0,0,,,,,,,,
+SULF1,Q8IWU6,,False,0,0,,,,,,,,
+THBS2,P35442,,False,0,0,,,,,,,,

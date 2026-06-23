@@ -1,0 +1,15 @@
+component,version,status
+Python,3.14.5,Frozen
+Platform,Windows-11-10.0.26200-SP0,Recorded
+numpy,2.4.4,Frozen
+pandas,3.0.2,Frozen
+scipy,1.17.1,Frozen
+scikit-learn,1.9.0,Frozen
+statsmodels,0.14.6,Frozen
+matplotlib,3.10.9,Frozen
+seaborn,0.13.2,Frozen
+scrublet,0.2.3,Frozen
+umap-learn,0.5.12,Frozen
+igraph,1.0.0,Frozen
+leidenalg,0.12.0,Frozen
+pillow,12.2.0,Frozen

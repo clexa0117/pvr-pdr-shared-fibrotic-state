@@ -1,0 +1,11 @@
+gene,state_specificity,all_patient_detection,cross_disease_external_direction,cross_disease_balance,direct_ocular_evidence,no_explicit_safety_block,unweighted_evidence_count
+POSTN,True,True,True,True,True,True,6
+AEBP1,True,True,True,True,False,True,5
+CTHRC1,True,True,True,True,False,True,5
+FN1,True,True,True,True,False,True,5
+THBS2,True,True,True,False,False,True,4
+IGFBP7,True,True,True,True,False,True,5
+SULF1,True,True,True,True,False,True,5
+SERPINE1,True,True,True,True,False,False,4
+TIMP1,False,True,True,True,False,False,3
+CFH,True,True,True,True,False,False,4

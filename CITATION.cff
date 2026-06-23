@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived release DOI assigned by Zenodo and the associated manuscript when available."
+title: "Single-cell analysis reveals a conserved ECM/TGF-beta fibrotic signaling state across human proliferative vitreoretinal diseases"
+version: "v1.0.0"
+date-released: "2026-06-23"
+
+authors:
+  - family-names: "Lin"
+    given-names: "Zhongliang"
+  - family-names: "Wang"
+    given-names: "Jingwen"
+repository-code: "https://github.com/clexa0117/pvr-pdr-shared-fibrotic-state"
+abstract: "Public release package for a human single-cell and public cross-evidence study of a conserved ECM/TGF-beta fibrotic signaling state across proliferative vitreoretinopathy and proliferative diabetic retinopathy."
+keywords:
+  - proliferative vitreoretinopathy
+  - proliferative diabetic retinopathy
+  - single-cell RNA-seq
+  - fibrosis
+  - extracellular matrix
+license: "MIT AND CC-BY-4.0"

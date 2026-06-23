@@ -1,0 +1,8 @@
+feature,requested_genes,present_genes,present_gene_symbols,missing_gene_symbols
+Integrin_matrix_receptors,7,7,CD44;ITGA4;ITGA5;ITGA6;ITGAV;ITGB1;ITGB3,
+TGF_beta_receptors,6,6,ACVR1;ACVR2A;ACVR2B;TGFBR1;TGFBR2;TGFBR3,
+POSTN_FN1_binding_receptors,5,5,ITGA5;ITGA6;ITGAV;ITGB1;ITGB3,
+SPP1_CD44_integrin_receptors,4,4,CD44;ITGAV;ITGB1;ITGB3,
+PDGF_receptors,2,2,PDGFRA;PDGFRB,
+VEGF_receptors,5,4,FLT1;FLT4;NRP1;NRP2,KDR
+Chemokine_receptors,6,5,CCR1;CCR2;CCR5;CXCR2;CXCR4,CXCR1

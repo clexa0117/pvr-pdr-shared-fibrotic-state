@@ -1,0 +1,12 @@
+accession,data_type,disease,patients_or_samples,role,verified_status,main_limitation
+GSE294329,scRNA-seq,PVR,5 patients and 18213 cells,PVR discovery,verified GEO matrices and sample metadata,new dataset with limited published reuse history
+GSE245561,scRNA-seq,PDR,4 patients,PDR discovery and exploratory anti-VEGF comparison,verified GEO matrices and treatment metadata,anti-VEGF comparison is only 2 versus 2
+GSE165784,scRNA-seq,PDR and PVR,5 PDR plus 1 PVR,PDR independent validation and auxiliary PVR validation,verified GEO sample metadata,PVR has only one sample
+GSE179603,bulk RNA-seq,PVR and comparator membranes,10 PVR plus 10 macular pucker plus 7 ILM in processed matrix,PVR external validation,verified GEO sample metadata,bulk tissue composition effects
+GSE60436,microarray,PDR fibrovascular membrane,6 PDR plus 3 controls,PDR external validation,verified GEO study design,older platform
+GSE41019,microarray,PVR membrane,PVR membranes and retina,PVR auxiliary validation,verified accession,small cohort and retina is imperfect control
+GSE274480,scRNA-seq plus paired lineage-tracing publication,mouse PVR,one pooled scRNA sample,mechanistic support only,verified GEO metadata,no biological replication for inference
+PXD025986,vitreous proteomics,PDR and controls,public processed proteomics project,independent ocular-fluid protein presence validation,verified PRIDE processed result,available combined result does not support reliable sample-level disease comparison
+PXD057155,vitreous proteomics,RRD,public processed proteomics project,independent ocular-fluid protein presence validation,verified PRIDE identification result,available result is not a sample-level quantitative matrix
+PXD070155,aqueous-humor proteomics,recurrence-associated RRD,12 DRI plus 12 DRII public labels,recurrence-associated ocular-fluid protein context,verified PRIDE mzTab and sample-level analysis,clinical orientation of DRI and DRII is unresolved
+PXD077831,baseline vitreous proteomics,subsequent PVR after primary RRD repair,8 subsequent-PVR cases plus 8 matched controls,direct prospective PVR protein context,verified PRIDE processed result and exact permutation analysis,no protein survives FDR and no prespecified candidate is nominally significant
